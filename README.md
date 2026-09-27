@@ -1,75 +1,74 @@
 <div align="center">
 
-# Cyprien Wacogne
+# Salut, moi c'est Cyprien 👋
 
-**Consultant & formateur en infrastructures serveur**<br>
-Fondateur d'[Intredys](https://intredys.fr) · 📍 Étaples, Hauts-de-France
+**Administrateur systèmes freelance & formateur IT** · Fondateur d'[Intredys](https://intredys.fr)
 
-[![Intredys](https://img.shields.io/badge/Intredys-intredys.fr-1f6feb?style=for-the-badge)](https://intredys.fr)
-[![Site perso](https://img.shields.io/badge/Site-cyprien--wacogne.com-24292f?style=for-the-badge)](https://cyprien-wacogne.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyprien_Wacogne-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/%F0%9F%92%BB-cyprien-wacogne-b49b77149)
-[![X](https://img.shields.io/badge/X-%40Intredys-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Intredys)
-
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server_2025-0078D4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-5A3FD1?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+Virtualisation · Infogérance · Stockage & sauvegarde · 📍 Hauts-de-France & Paris
 
 </div>
 
 ---
 
-## 👋 À propos
+## 🧑‍💻 À propos
 
-J'accompagne les entreprises dans la **gestion, la sécurisation et la virtualisation** de leurs infrastructures serveur. En parallèle, je **forme des techniciens et administrateurs systèmes** sur Linux et Windows Server.
+- 🖥️ Je gère au quotidien des **clusters Proxmox**, des serveurs **Linux et Windows** et des **NAS** pour des PME.
+- 🔒 Mes sujets de prédilection sont le durcissement système, la supervision et les stratégies de sauvegarde 3-2-1.
+- 🎓 Je forme des techniciens et administrateurs systèmes depuis 2020, en école (BTS SIO, Bachelor, Licence pro, Mastère), en entreprise et auprès de ministères français et belges.
+- 🧪 Mes cours sont surtout des labs, où l'on casse volontairement les infras pour apprendre à les diagnostiquer et les réparer.
+- ⚡ Je forme le matin, je gère des clusters en production l'après-midi.
 
-## 🏢 Pour les entreprises
+## 🧰 Stack
 
-- 🖥️ **Infogérance serveur** : supervision 24/7, maintenance et sécurisation de serveurs dédiés chez OVHcloud, Hetzner et Scaleway.
-- 🔒 **Sécurité** : durcissement système, CrowdSec, Firehol, WAF (ModSecurity), en-têtes HTTP, filtrage des bots.
-- 📦 **Virtualisation** : déploiement et gestion d'hyperviseurs Proxmox.
-- 🌐 **Hébergement web** : WordPress et WooCommerce sur Apache ou Nginx + PHP-FPM, administration Plesk.
+**Virtualisation & conteneurs**<br>
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white)
 
-## 🎓 Pour les techniciens et administrateurs
+**Systèmes**<br>
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
 
-Formations en présentiel, orientées pratique :
+**Réseau & sécurité**<br>
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-5A3FD1?style=flat-square)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 
-- **Windows Server 2025** : Active Directory, Hyper-V
-- **Administration Linux** : Ubuntu, AlmaLinux
+**Stockage & sauvegarde**<br>
+![Synology](https://img.shields.io/badge/Synology-4A4A4A?style=flat-square&logo=synology&logoColor=white)
+![ZFS](https://img.shields.io/badge/ZFS-2A6CA8?style=flat-square)
+![Proxmox Backup Server](https://img.shields.io/badge/Proxmox_Backup_Server-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
 
-## 🧰 Stack technique
+**Supervision & ITSM**<br>
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-002F6C?style=flat-square)
 
-| Domaine | Outils |
-| --- | --- |
-| Virtualisation | Proxmox VE · Hyper-V · Docker |
-| Systèmes | Linux (Ubuntu, Debian, AlmaLinux) · Windows Server 2025 |
-| Hébergement | OVHcloud · Hetzner · Scaleway |
-| Panel | Plesk |
-| Réseau | MikroTik · VPN · pare-feu iptables |
-| Sécurité | CrowdSec · Firehol · ModSecurity · Let's Encrypt |
-| Web | WordPress · WooCommerce · Apache · Nginx · PHP-FPM |
-| Supervision | Monitoring 24/7 · alerting |
-| Automatisation | Bash · Homebrew (macOS) |
+**Automatisation & web**<br>
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
 
-## 🚀 Projets open source
+**Hébergeurs**<br>
+![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white)
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=flat-square&logo=scaleway&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Infomaniak](https://img.shields.io/badge/Infomaniak-0098FF?style=flat-square)
 
-| Projet | Description | Langage |
-| --- | --- | --- |
-| [ubooquity](https://github.com/Setsuneh/ubooquity) | Installation automatisée d'Ubooquity, serveur auto-hébergé de BD et d'ebooks *(en test)* | Shell |
-| [Netkit](https://github.com/Setsuneh/Netkit) | Script d'installation de Netkit, environnement d'émulation de réseaux | Shell |
+## 📫 Me retrouver
 
-> [!NOTE]
-> **En préparation** : blocage des bots IA par adresse IP, automatisation de macOS avec Homebrew, et d'autres outils à venir.
-
-## 📫 Travailler ensemble
-
-Un serveur à sécuriser, une infrastructure à virtualiser ou une équipe à former ?
-
-<div align="center">
-
-[![Me contacter](https://img.shields.io/badge/Me_contacter-intredys.fr-2ea44f?style=for-the-badge)](https://intredys.fr/contact/)
-
-</div>
+[![Intredys](https://img.shields.io/badge/Intredys-intredys.fr-1f6feb?style=for-the-badge)](https://intredys.fr)
+[![Blog](https://img.shields.io/badge/Blog-intredys.fr%2Fblog-24292f?style=for-the-badge)](https://intredys.fr/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyprien_Wacogne-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/%F0%9F%92%BB-cyprien-wacogne-b49b77149)
+[![X](https://img.shields.io/badge/X-%40Intredys-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Intredys)
